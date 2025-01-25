@@ -30,3 +30,5 @@ function cookSteak(steakWeight, desiredDoneness) {
   const result = cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
   console.log(result);
   
+
+  //this one is the imperitive one, see how it details all the steps the program needs to do to cook the steak
